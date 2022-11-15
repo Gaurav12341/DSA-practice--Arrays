@@ -9,4 +9,5 @@ for i in range(0,shift):
         lis1[j]=lis1[j+1]
     lis1[len(lis1)-1]=temp 
 
+
 print(lis1)
